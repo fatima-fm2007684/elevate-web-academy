@@ -1,6 +1,7 @@
 # Elevate Web Academy
 
-A responsive landing page for a fictional web development academy.
+A responsive landing page for a mock web development academy.
+[**Elevate Web Academy Live Demo**](https://fatima-fm2007684.github.io/Elevate-Web-Academy/)
 
 ## Features
 
@@ -12,5 +13,3 @@ A responsive landing page for a fictional web development academy.
 
 - HTML5
 - CSS3 (Flexbox, Grid)
-
-[View Elevate Web Academy Live](https://fatima-fm2007684.github.io/Elevate-Web-Academy/)

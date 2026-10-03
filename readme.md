@@ -1,7 +1,7 @@
 # Elevate Web Academy
 
 A responsive landing page for a mock web development academy.
-[**Elevate Web Academy Live Demo**](https://fatima-fm2007684.github.io/Elevate-Web-Academy/)
+[**Elevate Web Academy Live Demo**](https://fatima-fm2007684.github.io/elevate-web-academy/)
 
 ## Features
 
